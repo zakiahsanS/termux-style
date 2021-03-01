@@ -1,23 +1,23 @@
 <!-- Links -->
-[bmac]: https://www.buymeacoffee.com/adi1090x
-[ko-fi]: https://ko-fi.com/adi1090x
-[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U3VK2SSVQWAPN
-[patreon]: https://www.patreon.com/adi1090x
+[bmac]: https://www.buymeacoffee.com/
+[ko-fi]: https://ko-fi.com/
+[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=
+[patreon]: https://www.patreon.com/
 
 # Termux Style
 
 <p align="left">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/adi1090x/termux-style?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/adi1090x/termux-style?color=violet&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/zakiahsanS/termux-style?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/zakiahsanS/termux-style?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/zakiahsanS/termux-style?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/zakiahsanS/termux-style?color=violet&style=for-the-badge">
 </p>
 
-[<img align="left" alt="adi1090x | Twitter" width="48px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" />][bmac]
-[<img align="left" alt="adi1090x | Reddit" width="48px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/2.png" />][ko-fi]
-[<img align="left" alt="adi1090x | Github" width="48px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/3.png" />][paypal]
-[<img align="left" alt="adi1090x | Instagram" width="48px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/4.png" />][patreon]
+[<img align="left" alt="zakiahsanS | Twitter" width="48px" src="https://raw.githubusercontent.com/zakiahsanS/files/master/other/1.png" />][bmac]
+[<img align="left" alt="zakiahsanS | Reddit" width="48px" src="https://raw.githubusercontent.com/zakiahsanS/files/master/other/2.png" />][ko-fi]
+[<img align="left" alt="zakiahsanS | Github" width="48px" src="https://raw.githubusercontent.com/zakiahsanS/files/master/other/3.png" />][paypal]
+[<img align="left" alt="zakiahsanS | Instagram" width="48px" src="https://raw.githubusercontent.com/zakiahsanS/files/master/other/4.png" />][patreon]
 
 <br />
 <br />
@@ -38,7 +38,7 @@ Follow the steps below -
 cd $HOME
 
 # clone this repository - 
-git clone https://github.com/adi1090x/termux-style
+git clone https://github.com/zakiahsanS/termux-style
 
 # change to termux-style dir -
 cd termux-style
@@ -61,7 +61,7 @@ $ termux-style
     │░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄░▄▄▄░▀▀█░░█░░░█░░█░░░█▀▀░░│
     │░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░░░▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░│
     └──────────────────────────────────────────────────┘
-    [*] By- Aditya Shakya // adi1090x
+    [*] By- ZakiGans // zaki
 
     [C] Colors (89)
     [F] Fonts (20)
